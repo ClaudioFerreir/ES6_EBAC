@@ -1,1 +1,2 @@
-# ES6_EBAC
+# ES6 Practices Lessons
+## EBAC Course
